@@ -23,5 +23,12 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hualocson&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
+<details>
+  <summary>:zap: Top Langs</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hualocson&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
 [facebook]: https://www.facebook.com/son.loc.5492
 [instagram]: https://instagram.com/son.loc.5492
