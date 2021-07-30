@@ -15,6 +15,13 @@
 [<img align="left" alt="son.loc.5492 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hualocson&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 [facebook]: https://www.facebook.com/son.loc.5492
 [instagram]: https://instagram.com/son.loc.5492
