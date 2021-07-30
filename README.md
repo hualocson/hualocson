@@ -20,7 +20,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hualocson&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hualocson&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [facebook]: https://www.facebook.com/son.loc.5492
