@@ -11,8 +11,8 @@ I build **landing pages and production webapps**.
 
 ## Selected work
 
-**[BetterPrompt](https://betterprompt.me)** — AI prompt engineering webapp
-> Currently shipping in production. Frontend lead — full webapp UI and flows.
+**[BetterPrompt](https://betterprompt.me)** — AI prompt engineering webapp (work project)
+> Core frontend developer — currently shipping production UI and flows.
 
 **Linear clone** — *coming soon*
 > Keyboard-driven issue tracker. Exploring command-palette UX patterns with optimistic updates.
