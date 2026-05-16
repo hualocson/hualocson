@@ -1,6 +1,6 @@
 # Loc Son
 
-Next.js developer for AI & SaaS founders.
+Next.js developer for AI & SaaS teams.
 I build **landing pages and production webapps**.
 
 ## What I build
