@@ -14,12 +14,6 @@ I build **landing pages and production webapps**.
 **[BetterPrompt](https://betterprompt.me)** — AI prompt engineering webapp (work project)
 > Core frontend developer — currently shipping production UI and flows.
 
-**Linear clone** — *coming soon*
-> Keyboard-driven issue tracker. Exploring command-palette UX patterns with optimistic updates.
-
-**SaaS analytics dashboard** — *coming soon*
-> Charts, tables, dark mode, fully responsive. The template behind the dashboard offering.
-
 ## Stack
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
@@ -30,4 +24,4 @@ I build **landing pages and production webapps**.
 
 ## Currently open for contracts
 
-[hualocson@gmail.com](mailto:hualocson@gmail.com) · [locson-me.vercel.app](https://locson-me.vercel.app)
+[hualocson@gmail.com](mailto:hualocson@gmail.com) | [locson-me.vercel.app](https://locson-me.vercel.app)
